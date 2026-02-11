@@ -61,7 +61,7 @@ img {
 
 /* --- 3. Header --- */
 header {
-    background: var(--vivid-light-blue);
+    background: var(--primary-color);
     color: var(--white-color);
     padding: 70px 0;
     text-align: center;
